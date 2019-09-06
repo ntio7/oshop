@@ -1,0 +1,7 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+
+    "editor.showFoldingControls": "always",
+    "editor.folding": true,
+    "editor.foldingStrategy": "indentation", 
+}
